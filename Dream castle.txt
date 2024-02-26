@@ -1,0 +1,5 @@
+// ISO Game: Robot Rampage
+public class RobotRampage {
+    public static void main(String[] args) {
+        System.out.println("Welcome to Robot Rampage!");
+        // Add your Robot Rampage game script here
